@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Kai 👋
 
-<!--
-**junjiax/junjiax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏗️ Software Engineering Student | Backend Developer
 
-Here are some ideas to get you started:
+I believe that building a clear system architecture and establishing a structured development process are essential to success. These practices enable maintainable codebases and help deliver efficient, reliable software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I thrive in structured, organized environments and enjoy following well-defined processes to produce high-quality results.
+
+🚀 "Plan sharp, build fast, succeed strong."
+
+---
+
+🔧 **Tech Stack**: Java | C# | Python | MySQL | PostgreSQL | REST APIs | Docker  
+🧰 **Tools**: Postman | GitHub | Linux  
+🛠️ **Frontend**: ReactJS | TailwindCSS  
+📚 **Currently Learning**: .NET (C#) | J2EE | Distributed Systems | Microservices | AWS  
+🤝 **Open to Collaborate On**: Backend projects | System design challenges  
+📫 **Contact**: tuangiai52@gmail.com
